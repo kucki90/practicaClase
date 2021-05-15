@@ -1,6 +1,9 @@
-git clone <https://link-con-nombre-del-repositorio>
-git branch <nombre-de-la-rama>
+
 git push <nombre-remoto> <nombre-rama></nombre-rama>
 
-git add . 
+git add * 
+git clone <https://link-con-nombre-del-repositorio>
+
+
+
 git commit -m "mensaje de confirmación"
