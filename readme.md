@@ -26,8 +26,14 @@ git pull origin master // actualizas el código en el repositorio local
 
   ░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓  
 
-  ▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░
+  ▓  ▓░  ░▓  ▓░ ░▓  ▓░  ░▓  ▓░♙░
 
-♙♙♙♙♙♙♙♙
+  ░  ░▓  ▓░  ░▓ ▓░  ░▓  ▓░  ░▓  ▓
 
-♖♘♗♔♕♗♘♖
+  ▓♙▓░♙░▓♙▓░♙░▓♙▓░♙░▓♙▓░  ░
+
+  ░♖░▓♘▓░♗░▓♔▓░♕░▓♗▓░♘░▓♖▓
+
+
+NOTA.- Deiv: Hasta ahora me viene respondiendo bien. Acabo de acomodar las fichas y hacer la primer jugada. Fijate que te sobran dos columnas. Juguemos a ver como se la banca.. Y de paso nos sirve para practicar el subir y bajar los cambios. Ceci.
+
