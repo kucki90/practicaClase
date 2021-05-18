@@ -1,2 +1,1 @@
-console.log("acabo de d
-scubrir como crear un archivo desde la terminal ja!")
+console.log("acabo de descubrir como crear un archivo desde la terminal ja!")
